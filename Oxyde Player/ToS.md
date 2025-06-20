@@ -1,6 +1,6 @@
 ### **Termes de Service (ToS) - Oxyde Player**
 
-**Dernière mise à jour : 10/02/2025**
+**Dernière mise à jour : 20/06/2025**
 
 Les présentes Termes de Service (ToS) régissent l’utilisation du Bot Oxyde Player. En accédant et en utilisant le Bot, vous acceptez ces ToS.
 
