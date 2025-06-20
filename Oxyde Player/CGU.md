@@ -1,6 +1,6 @@
 ### **Conditions Générales d'Utilisation (CGU) - Oxyde Player**
 
-**Dernière mise à jour : 10/02/25**
+**Dernière mise à jour : 20/06/25**
 
 Les présentes Conditions Générales d'Utilisation (CGU) régissent l'utilisation du bot Discord Oxyde Player. En utilisant notre service, vous acceptez ces CGU. Si vous n'acceptez pas ces termes, veuillez ne pas utiliser le Bot.
 
