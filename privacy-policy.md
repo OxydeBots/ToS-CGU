@@ -1,6 +1,6 @@
 ## Politique de Confidentialité
 
-Dernière mise à jour : 30 avril 2025
+Dernière mise à jour : 20 Juin 2025
 
 Chez **Oxyde Bots**, accessible à l’adresse [https://oxyde-bots.xyz](https://oxyde-bots.xyz), la confidentialité des utilisateurs est une priorité. Cette politique de confidentialité décrit quelles données sont collectées, comment elles sont utilisées, et quels sont vos droits.
 
