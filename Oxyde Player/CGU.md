@@ -18,7 +18,7 @@ Le Bot est hébergé par [Vyrohost](https://vyrohost.com), qui fournit l'infrast
 
 #### 4. **Base de Données et Gestion des Données**
 
-Le Bot utilise une base de données hébergée par **MongoDB** (https://mongodb.com) pour stocker certaines données nécessaires au bon fonctionnement du service (par exemple, les préférences des utilisateurs, l'historique des lectures, etc.). MongoDB met en œuvre des mesures de sécurité pour protéger vos données, mais vous êtes responsable de l'utilisation de vos informations personnelles et des données stockées.
+Le Bot utilise une base de données hébergée par [MongoDB](https://mongodb.com) pour stocker certaines données nécessaires au bon fonctionnement du service (par exemple, les préférences des utilisateurs, l'historique des lectures, etc.). MongoDB met en œuvre des mesures de sécurité pour protéger vos données, mais vous êtes responsable de l'utilisation de vos informations personnelles et des données stockées.
 
 #### 5. **Propriété Intellectuelle**
 
