@@ -40,5 +40,5 @@ L'utilisation du bot est interdite pour :
 - Les mises à jour seront annoncées sur notre serveur de support et il est de votre responsabilité de les consulter régulièrement.
 
 **9. Contact**
-Pour toute question ou signalement, veuillez contacter l'équipe de support via [insérer moyen de contact].
+Pour toute question ou signalement, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
 
