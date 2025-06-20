@@ -46,4 +46,4 @@ Le Bot est sujet au lois applicable par la France.
 ---
 
 **Contact :**  
-Si vous avez des questions concernant ces termes, veuillez nous contacter via Discord depuis https://discord.gg/84fzyNYTpn.
+Si vous avez des questions concernant ces termes, veuillez nous contacter sur le support: [Discord](https://discord.gg/uJC8QR9Yky).
