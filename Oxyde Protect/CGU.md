@@ -58,4 +58,4 @@ Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout m
 - Les développeurs sont autorisés à rejoindre un serveur et à s'octroyer temporairement les permissions nécessaires uniquement en cas de raid avéré, afin de rétablir la sécurité du serveur.
 
 **10. Contact**
-Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via https://discord.gg/84fzyNYTpn.
+Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
