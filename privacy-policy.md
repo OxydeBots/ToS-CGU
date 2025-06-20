@@ -35,4 +35,4 @@ Conformément à la réglementation en vigueur (RGPD), vous avez le droit de :
 - Demander la suppression ou la rectification de vos données.
 - Retirer votre consentement à tout moment, dans les cas où celui-ci est requis.
 
-Pour toute demande concernant vos données, vous pouvez nous contacter à : **gabsamw@vyrohost.com**
+Pour toute demande concernant vos données, vous pouvez nous contacter à : **gabsamw@vyrohost.com** où **oxyde@1789-structure.fr**
