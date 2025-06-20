@@ -14,7 +14,7 @@ Vous devez être un utilisateur de Discord avec un compte valide pour utiliser l
 
 #### 3. **Hébergement et Infrastructure**
 
-Le Bot est hébergé par **Vyrohost** (https://vyrohost.com), qui fournit l'infrastructure pour faire fonctionner les services du Bot. Vyrohost s'engage à fournir un service de haute disponibilité, mais n'est pas responsable des interruptions de service dues à des erreurs de réseau, à des problèmes liés aux plateformes de musique tierces, ou à des événements hors de leur contrôle.
+Le Bot est hébergé par [Vyrohost](https://vyrohost.com), qui fournit l'infrastructure pour faire fonctionner les services du Bot. Vyrohost s'engage à fournir un service de haute disponibilité, mais n'est pas responsable des interruptions de service dues à des erreurs de réseau, à des problèmes liés aux plateformes de musique tierces, ou à des événements hors de leur contrôle.
 
 #### 4. **Base de Données et Gestion des Données**
 
