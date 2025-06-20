@@ -30,6 +30,7 @@ Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discor
 - Aucune donnée personnelle sensible n'est collectée ni partagée avec des tiers.
 - Vos données ne seront jamais partagées avec des tiers, à l'exception de MongoDB Inc., qui assure l'hébergement sécurisé de notre base de données.
 - Vous pouvez demander la suppression des données liées à votre serveur en contactant notre équipe de support.
+- Les registres des tickets resteront accessibles pendant 15 jours, passé ce délai, ils seront supprimés.
 
 **5. Sécurité et Confidentialité**
 
