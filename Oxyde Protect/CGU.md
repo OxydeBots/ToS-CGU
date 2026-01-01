@@ -62,5 +62,7 @@ Toute tentative sera considérée comme une violation des CGU et pourra entraîn
 
 - Les développeurs sont autorisés à rejoindre un serveur et à s'octroyer temporairement les permissions nécessaires uniquement en cas de raid avéré, afin de rétablir la sécurité du serveur.
 
-**10. Contact**
+**11. Contact**
 Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
+
+- Dernière modification : 01-01-2026
