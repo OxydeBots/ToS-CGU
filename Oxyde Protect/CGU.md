@@ -54,7 +54,11 @@ Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout m
 - Un manquement grave aux présentes conditions peut entraîner une suppression définitive de l'accès au bot, sans préavis ni remboursement possible.
 - Toute tentative d'usurpation d'identité en se faisant passer pour un membre de l'équipe de développement ou du staff entraînera un bannissement immédiat, une mise en liste noire du support et un signalement officiel à Discord.
 
-**9. Intervention des Développeurs**
+**9. Utilisation test Oxyde Protect**
+Il est strictement interdit de tester, provoquer ou simuler des attaques, comportements abusifs ou scénarios de raid visant à évaluer ou contourner le système antiraid du bot, sur tout serveur public ou privé, sans autorisation écrite préalable de les créateurs.
+Toute tentative sera considérée comme une violation des CGU et pourra entraîner une suspension ou un bannissement immédiat, sans préavis.
+
+**10. Intervention des Développeurs**
 
 - Les développeurs sont autorisés à rejoindre un serveur et à s'octroyer temporairement les permissions nécessaires uniquement en cas de raid avéré, afin de rétablir la sécurité du serveur.
 
