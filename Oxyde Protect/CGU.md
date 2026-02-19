@@ -65,4 +65,4 @@ Toute tentative sera considérée comme une violation des CGU et pourra entraîn
 **11. Contact**
 Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
 
-- Dernière modification : 01-01-2026
+- Dernière modification : 19-02-2026
