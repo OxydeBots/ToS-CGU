@@ -10,7 +10,7 @@ Bienvenue sur Oxyde Protect. En accédant à notre bot et en l'utilisant, vous a
 
 **3. Utilisation test Oxyde Protect**
 
-Il est strictement interdit de tester, provoquer ou simuler des attaques, comportements abusifs ou scénarios de raid visant à évaluer ou contourner le système antiraid du bot, sur tout serveur public ou privé, sans autorisation écrite préalable de les créateurs.
+Il est strictement interdit de tester, provoquer ou simuler des attaques, comportements abusifs ou scénarios de raid visant à évaluer ou contourner le système antiraid du bot, sur tout serveur public ou privé, sans autorisation écrite préalable des créateurs.
 Toute tentative sera considérée comme une violation des CGU et pourra entraîner une suspension ou un bannissement immédiat, sans préavis.
 
 **4. Propriété Intellectuelle**
@@ -47,5 +47,5 @@ L'utilisation du bot est interdite pour :
 **10. Contact**
 Pour toute question ou signalement, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
 
-
+- Dernière modification : 19-02-2026
 
