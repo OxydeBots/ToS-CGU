@@ -72,7 +72,16 @@ Toute tentative sera considérée comme une violation des CGU et pourra entraîn
 
 - Les développeurs sont autorisés à rejoindre un serveur et à s'octroyer temporairement les permissions nécessaires uniquement en cas de raid avéré, afin de rétablir la sécurité du serveur.
 
-**11. Contact**
+**11. Hébergement et disponibilité du service**
+
+- Les services d’Oxyde Protect reposent sur plusieurs infrastructures d’hébergement réparties sur différents environnements afin d’assurer la continuité du service.
+- Les principaux services sont hébergés chez [Hetzner Online GmbH](https://www.hetzner.com/) et [Vyrohost](https://vyrohost.com/), ainsi que sur une infrastructure privée opérée à domicile sur un serveur Dell PowerEdge R630 via le réseau Proximus, notamment pour les services web (API, dashboard, site web et WebSocket) via proxy.
+- Des solutions de sécurité réseau sont utilisées, notamment des systèmes IDS/IPS et des services de protection réseau tels que [Cloudflare Inc.](https://www.cloudflare.com/).
+- Un système de redondance et de serveurs de secours est mis en place afin d’assurer la continuité du service en cas de défaillance des infrastructures principales.
+- Bien que nous mettions en œuvre tous les moyens raisonnables pour assurer la disponibilité du service, nous ne pouvons garantir une disponibilité permanente.
+- Nous ne pouvons être tenus responsables en cas d’interruption de service, de panne des hébergeurs ou de défaillance des systèmes de secours.
+  
+**12. Contact**
 Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
 
 - Dernière modification : 18-04-2026
