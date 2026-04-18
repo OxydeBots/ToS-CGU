@@ -1,9 +1,11 @@
 **Conditions d'Utilisation - Oxyde Protect**
 
 **1. Acceptation des Conditions**
+
 En utilisant Oxyde Protect, vous acceptez pleinement et sans réserve les présentes Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser le bot. L'utilisation continue du bot après toute modification des présentes conditions constitue une acceptation implicite des changements apportés.
 
 **2. Fonctionnalités**
+
 Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discord contre les attaques, le spam et d'autres menaces potentielles. Ses fonctionnalités incluent notamment :
 
 - La prévention du spam et des raids massifs.
@@ -23,14 +25,21 @@ Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discor
 
 **4. Collecte et Utilisation des Données**
 
-- Oxyde Protect peut collecter certaines informations afin de fonctionner efficacement, notamment :
-  - Les logs des infractions aux règles établies sur votre serveur.
-  - Les actions de modération prises par le bot.
-  - Des données d’analyse anonymisées pour améliorer ses fonctionnalités.
-- Aucune donnée personnelle sensible n'est collectée ni partagée avec des tiers.
-- Vos données ne seront jamais partagées avec des tiers, à l'exception de MongoDB Inc., qui assure l'hébergement sécurisé de notre base de données.
-- Vous pouvez demander la suppression des données liées à votre serveur en contactant notre équipe de support.
-- Les registres des tickets resteront accessibles pendant 15 jours, passé ce délai, ils seront supprimés.
+* Oxyde Protect peut collecter certaines informations afin de fonctionner efficacement, notamment :
+  - les logs des infractions aux règles établies sur votre serveur ;
+  - les actions de modération prises par le bot ;
+  - des extraits de messages avec contexte ;
+  - certains paramètres et journaux du serveur ;
+  - une adresse email utilisée pour les alertes antiraid ;
+  - des données d’analyse anonymisées afin d’améliorer ses fonctionnalités.
+- Les données collectées sont strictement limitées au fonctionnement du service : identifiants Discord (ID), logs, extraits de messages avec contexte, paramètres du serveur et email d’alerte.
+- L’adresse email est chiffrée en base de données via AES-256-GCM.
+- Aucune donnée personnelle sensible n’est collectée.
+- Vos données ne sont ni vendues ni utilisées à des fins commerciales.
+- Dans un objectif de sécurité et de lutte contre les abus, certaines données (ID et preuves associées) peuvent être partagées avec OwlBot dans le cadre d’un système de blacklist commun.
+- Les données sont hébergées de manière sécurisée par MongoDB Inc..
+- Les données liées aux tickets peuvent être conservées sans durée fixe afin de permettre leur consultation. Elles peuvent être récupérées ou supprimées à tout moment sur demande du propriétaire du serveur.
+- Vous pouvez demander la suppression de vos données en contactant le support.
 
 **5. Sécurité et Confidentialité**
 
@@ -65,4 +74,4 @@ Toute tentative sera considérée comme une violation des CGU et pourra entraîn
 **11. Contact**
 Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
 
-- Dernière modification : 19-02-2026
+- Dernière modification : 18-04-2026
