@@ -36,7 +36,6 @@ Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discor
 - L’adresse email est chiffrée en base de données via AES-256-GCM.
 - Aucune donnée personnelle sensible n’est collectée.
 - Vos données ne sont ni vendues ni utilisées à des fins commerciales.
-- Dans un objectif de sécurité et de lutte contre les abus, certaines données (ID et preuves associées) peuvent être partagées avec [OwlBot](https://owlbot.fr/) dans le cadre d’un système de blacklist commun.
 - Les données sont hébergées de manière sécurisée par MongoDB Inc..
 - Les notifications liées aux alertes antiraid sont envoyées via un service tiers d’envoi d’e-mails (Brevo). Dans ce cadre, seules les données strictement nécessaires à l’envoi de ces alertes (notamment l’adresse e-mail et le contenu de la notification antiraid) peuvent être transmises à ce prestataire. [Brevo](https://www.brevo.com/fr/) agit en qualité de sous-traitant conforme au RGPD et applique des mesures de sécurité adaptées. Aucune utilisation des données à des fins commerciales externes n’est effectuée.
 - Les données liées aux tickets peuvent être conservées sans durée fixe afin de permettre leur consultation. Elles peuvent être récupérées ou supprimées à tout moment sur demande du propriétaire du serveur.
