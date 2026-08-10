@@ -85,7 +85,7 @@ Le Site traite des données à caractère personnel conformément au **Règlemen
 - Configurations de serveurs (paramètres anti-raid, messages de bienvenue, logs…)
 - Adresses IP et journaux d'accès (logs d'infrastructure)
 - Données de session (jeton JWT chiffré)
-- Empreinte de navigateur pour le système anti-raid (FingerprintJS)
+- Empreinte de navigateur pour le système de captcha (FingerprintJS)
 
 #### Finalité du traitement
 - Fourniture des services de sécurité Discord
