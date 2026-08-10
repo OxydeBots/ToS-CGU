@@ -30,16 +30,16 @@ Le Site et ses services fonctionnent sur une infrastructure mixte :
 - **Hetzner Online GmbH** — Industriestr. 25, 91710 Gunzenhausen, Allemagne
 - Site : https://www.hetzner.com
 
-#### A. Serveur VPS principal
+#### B. Serveur VPS principal
 - **MIRIDIA SASU** — 200 rue de la Croix-Nivert, 75015 Paris
 - Site : https://miridiahost.fr/
   
-#### B. Réseau & protection anti-DDoS
+#### C. Réseau & protection anti-DDoS
 - **Cloudflare, Inc.** — 101 Townsend St, San Francisco, CA 94107, USA
 - Site : https://www.cloudflare.com
 - Cloudflare agit comme bouclier réseau en amont de nos serveurs et peut traiter les adresses IP des visiteurs pour filtrer le trafic malveillant.
 
-#### C. Auto-hébergement partiel
+#### D. Auto-hébergement partiel
 - Serveurs physiques situés au **domicile de l'éditeur**, en Belgique, connectés via le réseau **Proximus PLC** (Boulevard du Roi Albert II 27, 1030 Bruxelles).
 
 > Toutes les communications entre votre navigateur et nos serveurs sont chiffrées via **HTTPS/TLS**.
