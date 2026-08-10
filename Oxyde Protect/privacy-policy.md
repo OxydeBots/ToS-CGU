@@ -1,6 +1,6 @@
 # Politique de Confidentialité - OXYDE Protect
 
-**Dernière mise à jour : 1 Août 2026**
+**Dernière mise à jour : 10 Août 2026**
 
 La confidentialité et la sécurité de vos données sont nos priorités absolues. Cette politique de confidentialité explique de manière transparente quelles données sont collectées par le bot Oxyde Protect, pourquoi nous les collectons, et comment nous les protégeons. Ce document concerne **exclusivement l'utilisation du bot sur Discord**.
 
