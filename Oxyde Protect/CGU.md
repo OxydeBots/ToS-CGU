@@ -22,7 +22,30 @@ Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discor
 - Vous ne devez en aucun cas utiliser Oxyde Protect à des fins nuisibles, telles que la surveillance illégale, l'espionnage ou toute autre activité malveillante.
 - Il est de votre responsabilité d'informer les membres de votre serveur de l'utilisation d'un bot de sécurité et des éventuelles restrictions appliquées.
 
-## 4. Collecte et Utilisation des Données
+## 4. Propriété Intellectuelle
+
+* Oxyde Protect, y compris son code, sa structure et sa documentation, est la propriété exclusive de ses développeurs.
+* Toute reproduction, modification, distribution ou exploitation non autorisée du bot est strictement interdite.
+* L'utilisation du bot ne confère aucun droit de propriété intellectuelle à l'utilisateur.
+
+## 5. Accès au Service
+
+* OXYDE Protect est mis à disposition des utilisateurs de Discord sous réserve du respect de ces TOS.
+* Nous nous réservons le droit de restreindre, suspendre ou résilier l'accès au bot à tout moment sans préavis en cas de violation de ces conditions.
+* L'utilisation du bot est soumise aux règles de Discord et aux lois en vigueur.
+
+## 6. Comportements interdits
+
+L’utilisation du bot est interdite pour :
+
+* tout usage malveillant (harcèlement, surveillance illégale, perturbation de serveur) ;
+* l’usurpation d’identité d’un membre de l’équipe ;
+* toute tentative de modification, décompilation ou exploitation non autorisée du bot ;
+* le scraping, l’extraction automatisée ou la récupération massive de données issues des tickets, logs ou systèmes internes du bot sans autorisation préalable.
+
+Toute violation pourra entraîner des mesures techniques de protection ainsi que des actions légales appropriées.
+
+## 7. Collecte et Utilisation des Données
 
 * Oxyde Protect peut collecter certaines informations afin de fonctionner efficacement, notamment :
   - les logs des infractions aux règles établies sur votre serveur ;
@@ -40,46 +63,52 @@ Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discor
   - Les données liées aux tickets (transcriptions) peuvent être conservées sans durée fixe afin de permettre leur consultation. Elles peuvent être supprimées à tout moment sur demande du propriétaire du serveur.
   - Vous pouvez demander la suppression de vos données en contactant le support.
 
-## 5. Sécurité et Confidentialité
+## 8. Sécurité et Confidentialité
 
 - Toutes les données traitées par Oxyde Protect sont sécurisées et ne sont accessibles qu'aux administrateurs disposant des permissions nécessaires.
 - Nous nous engageons à protéger vos données et à ne jamais les exploiter à des fins commerciales.
 - En cas de faille de sécurité détectée, nous vous informerons dans les meilleurs délais et mettrons en place les correctifs nécessaires.
 
-## 6. Limitations et Exclusions de Responsabilité
+## 9. Limitations et Exclusions de Responsabilité
 
 - Oxyde Protect est fourni "tel quel", sans garantie de bon fonctionnement en toutes circonstances.
 - Nous ne pouvons être tenus responsables des dommages directs ou indirects résultant de l'utilisation ou du dysfonctionnement du bot.
 - Oxyde Protect peut être désactivé ou mis hors service temporairement ou définitivement sans préavis en cas de nécessité technique ou légale.
 - L'utilisateur reconnaît que l'utilisation du bot se fait à ses propres risques.
 
-## 7. Modifications des Conditions
+## 9. Modifications des Conditions
 Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout moment. Les modifications seront notifiées aux utilisateurs via une annonce officielle sur notre serveur de support ou par tout autre moyen de communication jugé approprié. Il vous incombe de consulter régulièrement ces conditions pour rester informé des éventuelles mises à jour.
 
-## 8. Suspension et Résiliation
+## 10. Suspension et Résiliation
 
 - Nous nous réservons le droit de suspendre ou d'interdire l'accès à Oxyde Protect à tout utilisateur ou serveur ne respectant pas ces conditions.
 - Un manquement grave aux présentes conditions peut entraîner une suppression définitive de l'accès au bot, sans préavis ni remboursement possible.
 - Toute tentative d'usurpation d'identité en se faisant passer pour un membre de l'équipe de développement ou du staff entraînera un bannissement immédiat, une mise en liste noire du support et un signalement officiel à Discord.
 
-## 9. Utilisation test Oxyde Protect
+## 11. Test OXYDE Protect
 Il est strictement interdit de tester, provoquer ou simuler des attaques, comportements abusifs ou scénarios de raid visant à évaluer ou contourner le système antiraid du bot, sur tout serveur public ou privé, sans autorisation écrite préalable des créateurs.
 Toute tentative sera considérée comme une violation des CGU et pourra entraîner une suspension ou un bannissement immédiat, sans préavis.
 
-## 10. Intervention des Développeurs
+## 12. Intervention des Développeurs
 
 - Les développeurs sont autorisés à rejoindre un serveur et à s'octroyer temporairement les permissions nécessaires uniquement en cas de raid avéré, afin de rétablir la sécurité du serveur.
 
-## 11. Hébergement et disponibilité du service
+## 13. Hébergement et disponibilité du service
 
-- Les services d’Oxyde Protect reposent sur plusieurs infrastructures d’hébergement réparties sur différents environnements afin d’assurer la continuité du service.
-- Les principaux services sont hébergés chez [Hetzner Online GmbH](https://www.hetzner.com/) et [Vyrohost](https://vyrohost.com/), ainsi que sur une infrastructure privée opérée à domicile sur un serveur Dell PowerEdge R630 via le réseau Proximus.
+- Les services de OXYDE Protect reposent sur plusieurs infrastructures d’hébergement réparties sur différents environnements afin d’assurer la continuité du service.
+- Les principaux services sont hébergés chez [Hetzner Online GmbH](https://www.hetzner.com/) et [VyroHost](https://vyrohost.com/), ainsi que sur une infrastructure privée opérée à domicile sur un serveur Dell PowerEdge R630 via le réseau Proximus.
 - Des solutions de sécurité réseau sont utilisées, notamment des systèmes IDS/IPS et des services de protection réseau tels que [Cloudflare Inc.](https://www.cloudflare.com/).
 - Un système de redondance et de serveurs de secours est mis en place afin d’assurer la continuité du service en cas de défaillance des infrastructures principales.
 - Bien que nous mettions en œuvre tous les moyens raisonnables pour assurer la disponibilité du service, nous ne pouvons garantir une disponibilité permanente.
 - Nous ne pouvons être tenus responsables en cas d’interruption de service, de panne des hébergeurs ou de défaillance des systèmes de secours.
   
-## 12. Contact
-Pour toute question, assistance ou demande de suppression de données, veuillez contacter l'équipe de support via [Discord](https://discord.gg/uJC8QR9Yky).
+Voici la mise à jour de la section 14 intégrée avec ton adresse mail dédiée :
 
-- Dernière modification : 1 Août 2026
+## 14. Contact et Responsable des Données
+
+Pour toute question, assistance, signalement ou pour exercer vos droits RGPD (accès, rectification ou suppression de vos données personnelles), vous pouvez contacter le Responsable du Traitement des Données :
+
+* **Par e-mail :** privacy@oxyde-bots.xyz
+* **Par Discord :** via notre [serveur de support](https://discord.gg/uJC8QR9Yky)
+
+- Dernière modification : 10 Août 2026
