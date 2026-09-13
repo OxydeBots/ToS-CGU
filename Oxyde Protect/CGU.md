@@ -102,8 +102,6 @@ Toute tentative sera considérée comme une violation des CGU et pourra entraîn
 - Bien que nous mettions en œuvre tous les moyens raisonnables pour assurer la disponibilité du service, nous ne pouvons garantir une disponibilité permanente.
 - Nous ne pouvons être tenus responsables en cas d’interruption de service, de panne des hébergeurs ou de défaillance des systèmes de secours.
   
-Voici la mise à jour de la section 14 intégrée avec ton adresse mail dédiée :
-
 ## 14. Contact et Responsable des Données
 
 Pour toute question, assistance, signalement ou pour exercer vos droits RGPD (accès, rectification ou suppression de vos données personnelles), vous pouvez contacter le Responsable du Traitement des Données :
