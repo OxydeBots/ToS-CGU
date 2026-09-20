@@ -1,112 +1,212 @@
-# Conditions d'Utilisation - Oxyde Protect
+# Conditions Générales d'Utilisation – OXYDE Protect
 
-## 1. Acceptation des Conditions
+**Dernière modification : 20 septembre 2026**
 
-En utilisant le bot Oxyde Protect, vous acceptez pleinement et sans réserve les présentes Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser le bot. L'utilisation continue du bot après toute modification des présentes conditions constitue une acceptation implicite des changements apportés.
+## Sommaire
 
-## 2. Fonctionnalités
+1. [Acceptation des conditions](#1-acceptation-des-conditions)
+2. [Le service](#2-le-service)
+3. [Conditions d'accès](#3-conditions-daccès)
+4. [Responsabilités de l'utilisateur](#4-responsabilités-de-lutilisateur)
+5. [Comportements interdits](#5-comportements-interdits)
+6. [Tests et simulations d'attaques](#6-tests-et-simulations-dattaques)
+7. [Signalements et blacklist communautaire](#7-signalements-et-blacklist-communautaire)
+8. [Tickets et transcripts](#8-tickets-et-transcripts)
+9. [Alertes par e-mail](#9-alertes-par-e-mail)
+10. [Données personnelles](#10-données-personnelles)
+11. [Intervention de l'équipe sur un serveur](#11-intervention-de-léquipe-sur-un-serveur)
+12. [Propriété intellectuelle](#12-propriété-intellectuelle)
+13. [Hébergement et disponibilité](#13-hébergement-et-disponibilité)
+14. [Garanties et responsabilité](#14-garanties-et-responsabilité)
+15. [Suspension et résiliation](#15-suspension-et-résiliation)
+16. [Modifications des conditions](#16-modifications-des-conditions)
+17. [Droit applicable](#17-droit-applicable)
+18. [Contact](#18-contact)
 
-Oxyde Protect est un bot de sécurité destiné à protéger les serveurs Discord contre les attaques, le spam et d'autres menaces potentielles. Ses fonctionnalités évoluent et incluent notamment :
+---
 
-- La prévention du spam et des raids massifs.
-- La gestion des rôles de sécurité et des permissions.
-- La surveillance des comportements à risque.
-- L'enregistrement et l'analyse des logs pour assurer une meilleure protection.
-- Un système de tickets de support pour votre serveur.
-- Différentes déclinaisons (bot musical, bot personnalisé, etc.).
+## 1. Acceptation des conditions
 
-## 3. Responsabilités de l'Utilisateur
+En ajoutant ou en utilisant le bot OXYDE Protect (et ses déclinaisons : bot personnalisé, etc.), vous acceptez les présentes Conditions Générales d'Utilisation (« **CGU** »). Si vous ne les acceptez pas, n'utilisez pas le bot.
 
-- Vous êtes entièrement responsable de l'utilisation du bot sur votre serveur Discord.
-- Vous devez veiller à ce que son utilisation soit conforme aux règles de Discord et aux lois en vigueur dans votre juridiction.
-- Vous ne devez en aucun cas utiliser Oxyde Protect à des fins nuisibles, telles que la surveillance illégale, l'espionnage ou toute autre activité malveillante.
-- Il est de votre responsabilité d'informer les membres de votre serveur de l'utilisation d'un bot de sécurité et des éventuelles restrictions appliquées.
+Ces CGU s'appliquent avec notre [Politique de Confidentialité](privacy-policy.md). En cas de modification, l'utilisation continue du bot après l'annonce des changements vaut acceptation (voir [section 16](#16-modifications-des-conditions)).
 
-## 4. Propriété Intellectuelle
+---
 
-* Oxyde Protect, y compris son code, sa structure et sa documentation, est la propriété exclusive de ses développeurs.
-* Toute reproduction, modification, distribution ou exploitation non autorisée du bot est strictement interdite.
-* L'utilisation du bot ne confère aucun droit de propriété intellectuelle à l'utilisateur.
+## 2. Le service
 
-## 5. Accès au Service
+OXYDE Protect est un bot de sécurité et de gestion destiné aux serveurs Discord. Ses fonctionnalités évoluent et incluent notamment :
 
-* OXYDE Protect est mis à disposition des utilisateurs de Discord sous réserve du respect de ces TOS.
-* Nous nous réservons le droit de restreindre, suspendre ou résilier l'accès au bot à tout moment sans préavis en cas de violation de ces conditions.
-* L'utilisation du bot est soumise aux règles de Discord et aux lois en vigueur.
+- la protection contre les raids, le spam, les mentions de masse, les liens indésirables et les arnaques (anti-raid, anti-spam, anti-lien, anti-scam, captcha) ;
+- la gestion des rôles, des permissions et des rôles protégés ;
+- les commandes de modération (avertissements, sanctions, verrouillage, etc.) ;
+- les logs du serveur (modération, membres, messages, vocal, salons, rôles…) ;
+- un système de tickets de support avec transcripts ;
+- les messages de bienvenue et d'au revoir, les autorôles et le suivi du temps vocal ;
+- la blacklist communautaire et les signalements ;
+- la liaison de serveurs entre eux ;
+- des alertes anti-raid par e-mail ;
+- des déclinaisons (bot musical, bot personnalisé, etc.).
 
-## 6. Comportements interdits
+Le détail des données traitées par chaque fonctionnalité figure dans la [Politique de Confidentialité](privacy-policy.md).
 
-L’utilisation du bot est interdite pour :
+---
 
-* tout usage malveillant (harcèlement, surveillance illégale, perturbation de serveur) ;
-* l’usurpation d’identité d’un membre de l’équipe ;
-* toute tentative de modification, décompilation ou exploitation non autorisée du bot ;
-* le scraping, l’extraction automatisée ou la récupération massive de données issues des tickets, logs ou systèmes internes du bot sans autorisation préalable.
+## 3. Conditions d'accès
 
-Toute violation pourra entraîner des mesures techniques de protection ainsi que des actions légales appropriées.
+- Vous devez respecter les [Conditions d'utilisation de Discord](https://discord.com/terms) et ses règles communautaires, y compris l'âge minimum requis.
+- Seule une personne disposant des permissions nécessaires sur un serveur peut y ajouter et configurer le bot.
+- Vous garantissez avoir le droit d'utiliser le bot sur le serveur concerné.
+- Pour fonctionner correctement, le bot doit disposer des permissions demandées et d'un rôle placé suffisamment haut dans la hiérarchie du serveur. Nous ne sommes pas responsables d'un dysfonctionnement dû à une mauvaise configuration des permissions.
 
-## 7. Collecte et Utilisation des Données
+---
 
-* Oxyde Protect peut collecter certaines informations afin de fonctionner efficacement, notamment :
-  - les logs des infractions aux règles établies sur votre serveur ;
-  - les actions de modération prises par le bot ;
-  - des extraits de messages avec contexte ;
-  - certains paramètres et journaux du serveur configurés sur le bot ;
-  - une adresse email utilisée pour les alertes antiraid ;
-  - des données d’analyse anonymisées afin d’améliorer ses fonctionnalités.
-  - Les données collectées sont strictement limitées au fonctionnement du service : identifiants Discord (ID), logs, extraits de messages avec contexte, paramètres du serveur et email d’alerte.
-  - L’adresse email est chiffrée en base de données via AES-256-GCM.
-  - Aucune donnée personnelle sensible n’est collectée.
-  - Vos données ne sont ni vendues ni utilisées à des fins commerciales.
-  - Les données sont hébergées de manière sécurisée par MongoDB Inc..
-  - Les notifications liées aux alertes antiraid sont envoyées via un service tiers d’envoi d’e-mails (Brevo). Dans ce cadre, seules les données strictement nécessaires à l’envoi de ces alertes (notamment l’adresse e-mail et le contenu de la notification antiraid) peuvent être transmises à ce prestataire. [Brevo](https://www.brevo.com/fr/) agit en qualité de sous-traitant conforme au RGPD et applique des mesures de sécurité adaptées. Aucune utilisation des données à des fins commerciales externes n’est effectuée.
-  - Les données liées aux tickets (transcriptions) peuvent être conservées sans durée fixe afin de permettre leur consultation. Elles peuvent être supprimées à tout moment sur demande du propriétaire du serveur.
-  - Vous pouvez demander la suppression de vos données en contactant le support.
+## 4. Responsabilités de l'utilisateur
 
-## 8. Sécurité et Confidentialité
+- Vous êtes **entièrement responsable de l'usage du bot sur votre serveur** et de sa configuration (modules activés, sanctions automatiques, listes blanches, etc.).
+- Vous devez veiller à ce que cet usage respecte les règles de Discord et les lois applicables dans votre juridiction.
+- Vous devez **informer les membres de votre serveur** de l'utilisation d'un bot de sécurité et des mesures appliquées (logs, sanctions automatiques, tickets, captcha, etc.). Pour les données de vos membres traitées par le bot, vous êtes en principe **responsable du traitement** et nous agissons comme **sous-traitant** (voir la Politique de Confidentialité).
+- Vous ne devez jamais utiliser le bot à des fins nuisibles : surveillance illégale, espionnage, harcèlement ou toute activité malveillante.
+- Vous êtes responsable des accès que vous donnez à votre équipe (administrateurs, modérateurs, listes blanches).
+- Pour toute donnée d'un ticket ou d'un log, il vous revient de décider qui peut y accéder et de ne pas la diffuser sans base légitime.
 
-- Toutes les données traitées par Oxyde Protect sont sécurisées et ne sont accessibles qu'aux administrateurs disposant des permissions nécessaires.
-- Nous nous engageons à protéger vos données et à ne jamais les exploiter à des fins commerciales.
-- En cas de faille de sécurité détectée, nous vous informerons dans les meilleurs délais et mettrons en place les correctifs nécessaires.
+---
 
-## 9. Limitations et Exclusions de Responsabilité
+## 5. Comportements interdits
 
-- Oxyde Protect est fourni "tel quel", sans garantie de bon fonctionnement en toutes circonstances.
-- Nous ne pouvons être tenus responsables des dommages directs ou indirects résultant de l'utilisation ou du dysfonctionnement du bot.
-- Oxyde Protect peut être désactivé ou mis hors service temporairement ou définitivement sans préavis en cas de nécessité technique ou légale.
-- L'utilisateur reconnaît que l'utilisation du bot se fait à ses propres risques.
+L'utilisation du bot est interdite pour :
 
-## 9. Modifications des Conditions
-Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout moment. Les modifications seront notifiées aux utilisateurs via une annonce officielle sur notre serveur de support ou par tout autre moyen de communication jugé approprié. Il vous incombe de consulter régulièrement ces conditions pour rester informé des éventuelles mises à jour.
+- tout **usage malveillant** (harcèlement, surveillance illégale, perturbation d'un serveur) ;
+- l'**usurpation d'identité** d'un membre de l'équipe ou du staff ;
+- toute tentative de **modification, décompilation, contournement ou exploitation non autorisée** du bot ou de ses services ;
+- le **scraping**, l'extraction automatisée ou la récupération massive de données issues des tickets, des logs, des transcripts, des preuves ou de nos systèmes internes, sans autorisation écrite préalable ;
+- la mise en place de **faux signalements** ou l'envoi de preuves falsifiées ;
+- l'envoi de **contenus illicites** (notamment à caractère pédopornographique, violent ou haineux) via les fonctionnalités du bot, y compris comme preuve de signalement.
 
-## 10. Suspension et Résiliation
+Toute violation peut entraîner des mesures techniques de protection, la suspension d'accès (voir [section 15](#15-suspension-et-résiliation)) et des actions légales appropriées.
 
-- Nous nous réservons le droit de suspendre ou d'interdire l'accès à Oxyde Protect à tout utilisateur ou serveur ne respectant pas ces conditions.
-- Un manquement grave aux présentes conditions peut entraîner une suppression définitive de l'accès au bot, sans préavis ni remboursement possible.
-- Toute tentative d'usurpation d'identité en se faisant passer pour un membre de l'équipe de développement ou du staff entraînera un bannissement immédiat, une mise en liste noire du support et un signalement officiel à Discord.
+---
 
-## 11. Test OXYDE Protect
-Il est strictement interdit de tester, provoquer ou simuler des attaques, comportements abusifs ou scénarios de raid visant à évaluer ou contourner le système antiraid du bot, sur tout serveur public ou privé, sans autorisation écrite préalable des créateurs.
-Toute tentative sera considérée comme une violation des CGU et pourra entraîner une suspension ou un bannissement immédiat, sans préavis.
+## 6. Tests et simulations d'attaques
 
-## 12. Intervention des Développeurs
+Il est **strictement interdit** de tester, provoquer ou simuler des attaques, des comportements abusifs ou des scénarios de raid visant à évaluer ou à contourner le système anti-raid du bot, sur tout serveur public ou privé, **sans autorisation écrite préalable** de ses créateurs.
 
-- Les développeurs sont autorisés à rejoindre un serveur et à s'octroyer temporairement les permissions nécessaires uniquement en cas de raid avéré, afin de rétablir la sécurité du serveur.
+Toute tentative constitue une violation des CGU et peut entraîner une suspension ou un bannissement immédiat, sans préavis.
 
-## 13. Hébergement et disponibilité du service
+Si vous découvrez une faille de sécurité, merci de nous la signaler de façon responsable par e-mail ou via le support, sans l'exploiter ni la divulguer.
 
-- Les services de OXYDE Protect reposent sur plusieurs infrastructures d’hébergement réparties sur différents environnements afin d’assurer la continuité du service.
-- Les principaux services sont hébergés chez [Hetzner Online GmbH](https://www.hetzner.com/) et [VyroHost](https://vyrohost.com/), ainsi que sur une infrastructure privée opérée à domicile sur un serveur Dell PowerEdge R630 via le réseau Proximus.
+---
+
+## 7. Signalements et blacklist communautaire
+
+- Les signalements (`/report`) doivent être **sincères, motivés et accompagnés de preuves authentiques** (1 à 3 images).
+- Chaque signalement est **examiné par le staff** d'OXYDE Protect, qui peut l'accepter ou le refuser. Nous ne garantissons ni le délai ni l'issue.
+- Si un signalement est accepté, l'utilisateur est blacklisté : le motif et les preuves peuvent être communiqués à la personne concernée, aux serveurs qui ont activé la blacklist et à toute personne disposant du lien vers les preuves (voir la Politique de Confidentialité).
+- Les serveurs qui activent la blacklist choisissent l'action appliquée (**bannissement automatique** ou **alerte seule**) et en assument la responsabilité.
+- Toute personne blacklistée peut demander un **réexamen** via le [serveur de support](https://discord.gg/uJC8QR9Yky) ou par e-mail. Nous pouvons retirer un blacklist en cas d'erreur.
+- Les faux signalements et l'abus de ce système entraînent des sanctions pouvant aller jusqu'à l'interdiction d'utiliser le bot.
+
+---
+
+## 8. Tickets et transcripts
+
+- À la fermeture d'un ticket, un transcript peut être généré, envoyé dans le salon de logs du serveur et **hébergé sur notre site à une adresse accessible à toute personne disposant du lien**.
+- Si un membre demande un transcript en message privé, il peut être publié sur le service tiers **Sourcebin**.
+- Les transcripts peuvent être conservés sans durée fixe. Le propriétaire du serveur peut en demander la suppression à tout moment.
+- Vous devez informer les participants qu'un transcript est enregistré et ne pas y faire figurer d'informations qui ne devraient pas l'être.
+
+---
+
+## 9. Alertes par e-mail
+
+- L'ajout d'une adresse e-mail est **facultatif** et lié à votre compte Discord ; il nécessite une vérification par code.
+- L'alerte est envoyée à l'adresse du **propriétaire** du serveur concerné. Elle peut contenir des informations sur l'utilisateur sanctionné (pseudo, ID, avatar).
+- Vous pouvez supprimer votre adresse à tout moment depuis le bot ; la suppression efface aussi le contact chez Brevo (voir la Politique de Confidentialité).
+- Vous ne devez saisir que **votre propre adresse**.
+
+---
+
+## 10. Données personnelles
+
+Le traitement des données personnelles est décrit dans la [Politique de Confidentialité](privacy-policy.md). En résumé :
+
+- les données collectées se limitent à ce qui est nécessaire au service : identifiants Discord, configurations, logs et extraits de messages, transcripts, signalements, adresse e-mail chiffrée (si vous l'ajoutez) et données techniques ;
+- **aucune donnée n'est vendue ni utilisée à des fins commerciales ou publicitaires** ;
+- vous pouvez demander l'accès, la rectification ou la suppression de vos données en écrivant à [privacy@oxyde-bots.xyz](mailto:privacy@oxyde-bots.xyz) ou via le support.
+
+---
+
+## 11. Intervention de l'équipe sur un serveur
+
+L'équipe de développement dispose d'outils techniques lui permettant, sur un serveur où le bot est présent, de générer une invitation, de consulter des informations techniques sur le serveur et de se donner **temporairement un rôle disposant de permissions élevées**.
+
+Nous nous engageons à n'utiliser ces outils que :
+
+- en cas de **raid ou d'attaque avérés**, pour rétablir la sécurité du serveur ;
+- à la **demande explicite** d'un propriétaire ou d'un administrateur du serveur (assistance) ;
+- pour traiter une **violation grave** des présentes CGU ou un signalement sérieux.
+
+Ces actions sont visibles dans le journal d'audit du serveur. Le rôle temporaire est retiré dès la fin de l'intervention.
+
+Lors de l'ajout du bot, une invitation permanente vers un salon du serveur peut être créée pour faciliter ces interventions. Vous pouvez la supprimer à tout moment.
+
+---
+
+## 12. Propriété intellectuelle
+
+- OXYDE Protect, y compris son code, sa structure, son design et sa documentation, est la propriété exclusive de ses développeurs.
+- Toute reproduction, modification, distribution ou exploitation non autorisée est strictement interdite.
+- L'utilisation du bot ne vous confère aucun droit de propriété intellectuelle.
+- Vous restez propriétaire des contenus que vous nous confiez (configurations, textes, images). Vous nous accordez le droit de les traiter uniquement pour faire fonctionner le service.
+
+---
+
+## 13. Hébergement et disponibilité
+
+- Les services d'OXYDE Protect reposent sur plusieurs infrastructures réparties pour assurer la continuité du service :
+  - **[MiridiaHost SASU](https://miridiahost.fr/)** ;
+  - **[UpCloud SA](https://upcloud.com/)** ;
+  - une **infrastructure privée** (serveur Dell PowerEdge R630, réseau Proximus).
 - Des solutions de sécurité réseau sont utilisées, notamment des systèmes IDS/IPS et des services de protection réseau tels que [Cloudflare Inc.](https://www.cloudflare.com/).
-- Un système de redondance et de serveurs de secours est mis en place afin d’assurer la continuité du service en cas de défaillance des infrastructures principales.
-- Bien que nous mettions en œuvre tous les moyens raisonnables pour assurer la disponibilité du service, nous ne pouvons garantir une disponibilité permanente.
-- Nous ne pouvons être tenus responsables en cas d’interruption de service, de panne des hébergeurs ou de défaillance des systèmes de secours.
-  
-## 14. Contact et Responsable des Données
+- Un système de redondance et de serveurs de secours est en place pour limiter les interruptions.
+- Le service est fourni sur la base du meilleur effort : nous ne garantissons pas une disponibilité permanente et pouvons interrompre le service pour maintenance ou nécessité technique ou légale.
 
-Pour toute question, assistance, signalement ou pour exercer vos droits RGPD (accès, rectification ou suppression de vos données personnelles), vous pouvez contacter le Responsable du Traitement des Données :
+---
 
-* **Par e-mail :** privacy@oxyde-bots.xyz
-* **Par Discord :** via notre [serveur de support](https://discord.gg/uJC8QR9Yky)
+## 14. Garanties et responsabilité
 
-- Dernière modification : 10 Août 2026
+- OXYDE Protect est fourni « **tel quel** », sans garantie de fonctionnement ininterrompu ni de détection de toutes les menaces. Aucune protection n'est infaillible.
+- Dans les limites permises par la loi, nous ne pouvons être tenus responsables des dommages directs ou indirects résultant de l'utilisation ou du dysfonctionnement du bot, d'une interruption de service, d'une panne d'un hébergeur ou d'une défaillance des systèmes de secours.
+- Nous ne sommes pas responsables des actions décidées par les administrateurs d'un serveur (bannissements, sanctions, blacklists appliquées) ni des contenus publiés par les utilisateurs.
+- Rien dans ces CGU n'exclut ou ne limite notre responsabilité en cas de faute intentionnelle, de faute lourde, ou dans les cas où la loi l'interdit, ni vos droits impératifs de consommateur.
+- Vous utilisez le bot sous votre responsabilité.
+
+---
+
+## 15. Suspension et résiliation
+
+- Nous pouvons restreindre, suspendre ou résilier l'accès au bot pour tout utilisateur ou serveur qui ne respecte pas ces CGU, **sans préavis** en cas de violation grave. Le bot peut aussi quitter un serveur interdit d'accès.
+- En cas de manquement grave, l'accès peut être supprimé définitivement, sans remboursement le cas échéant.
+- Toute tentative d'usurpation d'identité (se faire passer pour un membre de l'équipe ou du staff) entraîne un bannissement immédiat, une mise en liste noire du support et un signalement à Discord.
+- Vous pouvez arrêter d'utiliser le bot à tout moment en le retirant de votre serveur. Pour la suppression de vos données après retrait, voir la Politique de Confidentialité.
+
+---
+
+## 16. Modifications des conditions
+
+Nous pouvons modifier ces CGU à tout moment. Les modifications sont notifiées par une annonce officielle sur notre serveur de support ou par tout autre moyen approprié. Il vous appartient de les consulter régulièrement. Si vous n'acceptez pas les changements, cessez d'utiliser le bot.
+
+---
+
+## 17. Droit applicable
+
+Les présentes CGU sont régies par le **droit belge**. En cas de litige, nous vous invitons à nous contacter d'abord pour trouver une solution amiable. À défaut, les tribunaux belges sont compétents, sans préjudice des règles impératives de protection des consommateurs.
+
+---
+
+## 18. Contact
+
+Pour toute question, assistance, signalement ou pour exercer vos droits (accès, rectification, suppression) :
+
+- **E-mail** : [privacy@oxyde-bots.xyz](mailto:privacy@oxyde-bots.xyz)
+- **Discord** : [serveur de support](https://discord.gg/uJC8QR9Yky)
