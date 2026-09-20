@@ -2,7 +2,7 @@
 
 **Dernière mise à jour : 20 septembre 2026**
 
-Cette politique explique quelles données personnelles sont traitées par le bot Discord **OXYDE Protect** (et ses déclinaisons : bot personnalisé, bot musical, etc.), pourquoi, où elles sont stockées, combien de temps, et comment exercer vos droits.
+Cette politique explique quelles données personnelles sont traitées par le bot Discord **OXYDE Protect** (et ses déclinaisons : bot personnalisé, etc.), pourquoi, où elles sont stockées, combien de temps, et comment exercer vos droits.
 
 Elle couvre le bot lui-même ainsi que les services web qui lui sont directement rattachés : pages de transcripts de tickets, page de vérification captcha, stockage des preuves de signalements et envoi des alertes e-mail. Le site oxyde-bots.xyz en tant que tel (dashboard, connexion Discord, cookies de session, chat de support) fait l'objet de sa propre politique de confidentialité.
 
