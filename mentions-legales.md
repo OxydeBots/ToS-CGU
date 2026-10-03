@@ -27,8 +27,8 @@ Le Site est édité et exploité à titre **personnel et non commercial** par un
 Le Site et ses services fonctionnent sur une infrastructure mixte :
 
 #### A. Serveur VPS OXYDE Protect
-- **Hetzner Online GmbH** — Industriestr. 25, 91710 Gunzenhausen, Allemagne
-- Site : https://www.hetzner.com
+- **UpCloud Oy** — Aleksanterinkatu 15 B, 7th floor, 00100 Helsinki, Finlande
+- Site : https://upcloud.com
 
 #### B. Serveur VPS principal
 - **MIRIDIA SASU** — 200 rue de la Croix-Nivert, 75015 Paris
